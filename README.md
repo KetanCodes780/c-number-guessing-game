@@ -17,8 +17,7 @@ After each guess, the program gives hints:
 ## ▶️ How to Run
 
 1. Compile the program:
-   gcc guess_game.c -o game
-
+  gcc number_guessing_game.c -o game
 2. Run the program:
    ./game
 
