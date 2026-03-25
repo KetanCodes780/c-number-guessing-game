@@ -3,7 +3,7 @@
 A simple number guessing game written in C.
 
 ## 📌 Description
-This program generates a random number between 1 and 100, and the player has to guess it.
+This program generates a random number between 1 and 100 , and the player has to guess it.
 
 After each guess, the program gives hints:
 - 📉 Too low
