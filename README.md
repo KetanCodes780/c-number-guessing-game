@@ -18,7 +18,7 @@ After each guess, the program gives hints:
 
 1. Compile the program:
   gcc number_guessing_game.c -o game
-2. Run the program:
+2. Run the program :
    ./game
 
 ## 💡 Features
