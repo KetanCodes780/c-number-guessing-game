@@ -12,7 +12,7 @@ After each guess, the program gives hints:
 
 ## 🛠️ Technologies Used
 - C Programming Language
-- Standard Libraries (stdio.h, stdlib.h, time.h)
+- Standard Libraries (stdio.h, stdlib.h, time.h).
 
 ## ▶️ How to Run
 
