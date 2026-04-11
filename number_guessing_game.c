@@ -7,7 +7,7 @@ int main()
 
     int number,guess,nguesses=1;
     srand(time(0));
-     number = rand()%100 + 1;//generates a random no bw 1 and 100
+     number = rand()%100 + 1;//generates a random number bw 1 and 100
      //printf("The number is %d\n",number);
    
      // keep running the loop untill the no is guessed
