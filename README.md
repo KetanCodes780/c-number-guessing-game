@@ -34,4 +34,4 @@ After each guess, the program gives hints:
 - Better user interface
 
 ## 👨‍💻 Author
-Ketan
+KETAN
